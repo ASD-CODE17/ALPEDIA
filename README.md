@@ -36,8 +36,8 @@ Star really appreciated <3
 
 1. Clone the repository:
    ```
-   git clone https://github.com/wweziza/lswstore.git
-   cd lswstore
+   git clone https://github.com/ASD-CODE17/ALPEDIA
+   cd ALPEDIA
    ```
 
 2. Install dependencies:
